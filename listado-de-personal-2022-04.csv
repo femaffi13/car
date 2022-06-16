@@ -1,0 +1,762 @@
+Código;Nombre;Gerencia;Puesto
+4;LEAL, Facundo;Gerencia General;Gerente General
+8;COVINI, Agostina;Subgerencia de RRHH y RSE;Subgerente de RRHH y RSE
+11;SALAMA, Alejandro Jonathan;Unidad de Auditoría Interna;Analista de Auditoria
+12;PERICAS, Pablo Nicolas;Unidad de Auditoría Interna;Jefe de Unidad de Auditoría Interna
+14;GARBARINO, Hernán;Gerencia de Operaciones;Auxiliar Administrativo
+22;CANET, Nicolas Enrique;Gerencia de Administración y Finanzas;Gerente de Administración y Finanzas
+23;AURELIO, Juan Antonio;Gerencia de Servicios Espaciales;Subgerente de Operaciones Satelitales
+24;BEROS, Beatriz Ana;Gerencia de Operaciones;Coordinador Administrativo
+25;BOADO, Gustavo Manuel;Gerencia de Servicios Espaciales;Jefe de Navegación y Control
+27;CARRASCO, Maximiliano;Gerencia de Servicios Espaciales;Operador NOC
+31;FABRIS, Martin German;Gerencia de Servicios Espaciales;Gerente de Servicios Espaciales
+32;GANON, Luis Alberto;Gerencia de Servicios Espaciales;Jefe de RF Satelital (interino)
+36;JASMINOY, Francisco;Gerencia Comercial;Ejecutivo de Cuentas
+38;MANZANERA, Jose Luis;Gerencia de Servicios Espaciales;Analista de Calidad de VSAT
+39;MONSALVE, Hernan Gustavo;Gerencia de Servicios Espaciales;Ingeniero de Operaciones
+42;PEREZ, Pablo Antonio;Gerencia de Servicios Espaciales;Subgerente de Estaciones Terrenas
+43;PERKOVIC, Nicolas Esteban;Subgerencia de RRHH y RSE;Auxiliar Técnico
+44;PONZO, Oscar Roberto;Gerencia de Administración y Finanzas;Jefe de Contabilidad
+45;QUINTEROS, Gabriel Hernan;Gerencia de Servicios Espaciales;Ingeniero Especialista en TVD Nivel 4
+46;RODRIGUEZ CUADRA, Gerardo N;Subgerencia de Servicios Corporativos y Logística;Auxiliar Técnico
+48;SILVA, Federico Martin;Gerencia de Servicios Espaciales;Subgerente de Serv. Satelitales y TDA
+49;SORIANO, Miguel Angel;Gerencia de Servicios Espaciales;Jefe de NOC Servicios Satelitales y TDA
+50;SUAREZ, Ariel Pablo;Gerencia de Servicios Espaciales;Ingeniero de Operaciones y Mantenimiento
+55;ZEIDAN, Fatme Teresa;Gerencia de Administración y Finanzas;Analista de Facturación
+57;ROBLES, Agustin Pedro;Gerencia de Tecnología Informática;Analista de Soporte
+61;ANDRADA, María Eugenia;Secretaría General;Auxiliar Administrativo
+63;LOPEZ ECHENIQUE, Mercedes;Gerencia de Servicios Espaciales;Asistente
+64;GIACCAGLIA, Daniel Alfredo;Subgerencia de Servicios Corporativos y Logística;Tecnico
+66;KELM, Carlos Alberto;Gerencia General;Asesor
+68;LOPEZ, Ernaldo David;Gerencia de Servicios Espaciales;Ingeniero de Guiado, Navegación y Control
+69;LA SALA, Gustavo Nicolás;Gerencia de Servicios Espaciales;Ingeniero de Guiado, Navegación y Control
+73;FIGUERAS, Matías Javier;Gerencia de Servicios Espaciales;Controlador Satelital
+74;BUSTAMANTE MONTERREY, Mauricio;Gerencia de Servicios Espaciales;Supervisor NOC CSM/VSAT
+75;NUGOLI D ASCENCIO, Irina;Gerencia de Administración y Finanzas;Auxiliar Administrativo
+76;PUJOL, Martín;Subgerencia de Servicios Corporativos y Logística;Administrativo
+77;SUAREZ, Facundo;Gerencia de Servicios Espaciales;Jefe de Operaciones
+78;RONCO, Gerónimo;Gerencia de Administración y Finanzas;Subgerente de Presupuesto y Control Presupuestario
+83;SUAREZ, Romina Adriana;Subgerencia de RRHH y RSE;Analista de Capacitación y Comunicación
+84;NAHUYS, Hugo Alberto;Gerencia de Servicios Espaciales;Subgerente de Sistemas Satelitales
+87;DUARTE, José Antonio;Gerencia de Operaciones;Subgerente de Ingeniería
+89;DI PRIMA, Matías Andrés;Gerencia de Administración y Finanzas;Analista de Compras
+91;ALARCON, Ricardo Armando;Gerencia de Servicios Espaciales;Operador NOC
+92;D IPOLITO, Carlos Alberto;Gerencia de Servicios Espaciales;Ingeniero Satelital
+93;TRIPALDI, Alejandra Marcela;Gerencia de Servicios Espaciales;Analista de Documentación y Viáticos
+94;RODRIGUEZ, Marcelo Eduardo;Gerencia de Servicios Espaciales;Supervisor NOC TDA
+96;CHAZANOWSKI, Martín Daniel;Gerencia de Administración y Finanzas;Analista Contable
+97;BREUL, Sylvain Paul Benoit;Gerencia de Servicios Espaciales;Subgerente de Proyectos
+105;PEREZ, Marcelo;Gerencia de Operaciones;Especialista
+106;TESORO, Marcelo Fabian;Gerencia de Operaciones;Gerente de Operaciones
+108;FRIEDLAENDER, Fabio;Gerencia de Tecnología Informática;Subgerente de Sistemas
+110;DE GAUDENZI, Gustavo A.;Gerencia de Servicios Espaciales;Jefe de Ingeniería de Transmisión Audiovisual
+112;LEDO, Oscar Adrián;Gerencia Comercial;Ejecutivo de Cuentas
+113;COLELA, Ricardo;Gerencia de Administración y Finanzas;Analista de Cobranzas
+115;ALBERICO, Alejandro;Gerencia de Administración y Finanzas;Analista de Compras
+117;TATO, María Magdalena;Secretaría General;Auxiliar de archivo
+118;FILIPPI FARMAR, Leonardo;Gerencia de Servicios Espaciales;Ingeniero Junior de Administración de HUB
+119;VENDITTI, Daniel Alberto;Directorio;Administrativo
+120;PUIG, Eduardo Fernando;Gerencia de Tecnología Informática;Especialista Senior
+122;ALOE, Aixa Noelia Diana;Gerencia Comercial;Auxiliar Administrativo
+125;LOTERO, Dolores;Gerencia de Asuntos Jurídicos;Asistente
+128;LICHTENSZTAIN, Giselle Tamara;Gerencia Comercial;Facturacion
+132;ABDALA GONZALEZ, Andrea;Gerencia de Relaciones Institucionales;Diseñador y Productor Audiovisual
+134;BONINO, Diego Eduardo;Gerencia de Operaciones;Ingeniero de Red
+135;PITTIS, Fabián Luis;Gerencia de Operaciones;Técnico
+140;MC GOVERN, Ezequiel S.;Gerencia de Tecnología Informática;Analista de Arquitectura
+141;MUÑIZ, Hugo Alberto;Gerencia de Operaciones;Operador NOC
+142;BATAN, Sergio Andrés;Subgerencia de RRHH y RSE;Técnico Auxiliar en Seguridad e Higiene
+143;MIYAGI, Fernando Javier;Gerencia de Servicios Espaciales;Operador NOC
+145;MALCOLM HOULTON, Axel;Gerencia de Servicios Espaciales;Ingeniero Junior de TDA
+148;MENDOZA, Nicolás;Gerencia de Administración y Finanzas;Cadete
+149;BENTIVEGNA, María Natalia;Gerencia de Administración y Finanzas;Analista Contable
+150;DOS SANTOS, Marcelo Bruno;Gerencia de Tecnología Informática;Analista de Procesos
+156;CACCIATORE, Martín Osvaldo;Gerencia de Administración y Finanzas;Subgerente de Finanzas
+157;DESLARMES, Javier Alejandro;Gerencia de Operaciones;Jefe de GO Sur
+159;DONOSO, Martín;Subgerencia de Servicios Corporativos y Logística;Jefe de Energía
+160;VIDAL, Diego Leonardo;Subgerencia de RRHH y RSE;Responsable de Liquidación de Sueldos
+161;MENDOZA, María Luján;Gerencia de Operaciones;Analista de Red
+162;SCOLNIK, Hugo Daniel;Gerencia de Tecnología Informática;Asesor
+164;KUGEL BERNARDO, Federico;Gerencia de Servicios Espaciales;Ingeniero Junior de TDA
+168;ARIAS, Juan Facundo;Gerencia de Servicios Espaciales;Controlador Satelital
+170;SORUCO, Mauro;Gerencia de Servicios Espaciales;Operador NOC
+174;DRISALDI, Juan José;Gerencia de Servicios Espaciales;Controlador Satelital
+176;MANSO, Pablo Adrián;Gerencia de Tecnología Informática;Analista Funcional
+177;MELÑICHUK, Alejandro Baldimiro;Gerencia de Operaciones;Especialista NOC Nivel 3
+178;URETA MANUS, Pablo Daniel;Gerencia de Operaciones;Técnico de Aceptación
+179;CORONADO RODRIGUEZ, Alejandro;Gerencia de Servicios Espaciales;Ingeniero de Operaciones y Mantenimiento
+180;ZAPATA, Orlando Ezequiel;Gerencia de Servicios Espaciales;Analista de Operaciones
+181;FERNANDEZ, Carmen Eva;Subgerencia de RRHH y RSE;Asistente
+182;GALLARDO, Pablo Sebastián;Gerencia de Servicios Espaciales;Instalador VSAT/TDS
+183;JUCHANI CALLAMULLO, Roberto;Gerencia de Tecnología Informática;Analista Funcional
+185;RODRIGUEZ, Carlos;Gerencia de Operaciones;Operador NOC
+186;TASSO, Gonzalo;Gerencia de Administración y Finanzas;Analista de Compras
+187;TREZZA SILVA, Santiago;Secretaría General;Secretario General
+188;ZERILLO, Alberto José;Gerencia de Operaciones;Subgerente de Mantenimiento
+192;NUÑEZ, Alberto Germán;Gerencia de Tecnología Informática;Administrador de Infraestructura
+193;CAMPORA, Alejandro;Gerencia de Operaciones;GO Benavidez
+194;NOYA, Daniela Noelí;Gerencia de Relaciones Institucionales;Organizador de Eventos
+196;ALVAREZ, Juan Antonio;Gerencia de Administración y Finanzas;Analista de Compras
+197;PICALLO, Eduardo Javier;Gerencia de Servicios Espaciales;Ing. RF Satelital
+200;DENTONE, María Eugenia;Gerencia de Servicios Espaciales;Responsable de Calidad de Op. Satelitales, Est. Terrena y Software
+202;SPADONI, Ana;Gerencia de Administración y Finanzas;Analista de Compras
+205;PEREZ SAN ROMAN, Julio;Gerencia de Tecnología Informática;Operador IT
+213;MALDONADO, Diego Alfredo;Gerencia de Operaciones;Supervisor de Ingeniería de Tráfico
+215;LAGOS, María Isabel;Gerencia Comercial;Responsable Facturacion
+221;INDART, Diego;Gerencia de Operaciones;Supervisor de Ingeniería y Gestión de Tráfico IP
+222;FRACCHIA, Lucila;Gerencia de Relaciones Institucionales;Diseñador Gráfico
+223;MONTAGNA, Luis Claudio;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+226;DE AZEVEDO, Eduardo;Gerencia de Servicios Espaciales;Técnico de Operaciones y Mantenimiento
+227;ZACARIAS, Lucas Ezequiel;Gerencia de Operaciones;GO Benavidez
+229;PUJOL, Santiago;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+230;DE PASQUA, María Florencia;Gerencia Comercial;Facturacion
+236;GALEANO, Pablo Leonardo;Gerencia de Servicios Espaciales;Ingeniero IT de Estaciones Terrenas
+237;COROLEU, Mariana;Compliance;Analista de Compliance
+238;BERZUNCES, Marcelo Oscar;Subgerencia de RRHH y RSE;Auxiliar Técnico
+239;CAMBLONG, Ignacio Matías;Gerencia de Servicios Espaciales;Analista de Operaciones
+244;GONZALEZ, Néstor Mauro;Gerencia de Operaciones;GO Resistencia
+245;CARRIZO , Enrique Gustavo;Gerencia de Operaciones;Técnico Referente FO
+246;DEL OCHIO, Angel Leonardo;Gerencia de Servicios Espaciales;Responsable de Infraestructura de TDA
+247;NUÑEZ, Eduardo Gabriel;Gerencia Comercial;Gerente Comercial
+249;GURRUCHAGA, Analía;Gerencia de Tecnología Informática;Coordinador de Certificaciones
+253;DI CHIARA, Lucas;Gerencia de Tecnología Informática;Jefe de Microinformática y Patrimonio de TI
+257;BEK, Sheila;Gerencia de Tecnología Informática;Analista de Gestión Operativa
+260;SCHWOYER, Germán;Gerencia de Operaciones;Ingeniero de Red
+261;GARCIA, Héctor Francisco Javier;Gerencia de Tecnología Informática;Administrador IT
+262;MEZA, Maximiliano Rodolfo;Subgerencia de Servicios Corporativos y Logística;Supervisor de Mantenimiento
+263;GIUSTOZZI, Hugo Eduardo;Gerencia Comercial;PM de Gestión de Servicios
+264;MARTIN, Francisco;Gerencia de Servicios Espaciales;Proyectos
+265;PUNTER, Liliana Ester;Gerencia de Operaciones;Asistente Técnico
+267;PEÑA, Brenda Solange;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+268;BRUM, Patricia;Gerencia de Tecnología Informática;Jefe NOC DC
+270;GRIONI, Natalia;Subgerencia de RRHH y RSE;Analista de Administración de Personal
+271;RACO, Leonardo;Gerencia de Tecnología Informática;Analista Técnico
+272;CEA SASTRE, Diego Hernán;Gerencia Comercial;Ejecutivo de Cuentas
+275;NAKASONE, Gustavo Luis;Gerencia de Tecnología Informática;Ingeniero de Seguridad Informática
+276;RUIZ, Cintia Marina;Gerencia de Operaciones;Auxiliar Administrativo
+277;GHIO, Guillermo Jorge;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+278;DOMINGUEZ, José Roberto;Gerencia de Operaciones;GO Benavidez
+279;GONZALEZ, Luis Gabriel;Gerencia de Operaciones;Especialista NOC Nivel 3
+282;BRUDNER, Alejandro;Gerencia de Servicios Espaciales;Ingeniero de Operaciones
+283;RUIZ, César Diego;Gerencia de Operaciones;Analista de Red
+290;DI PATO, José;Gerencia de Operaciones;Jefe de GO Norte
+291;COTUGNO, Lucas Nicolás;Gerencia de Operaciones;Coordinador de GO Noreste
+292;GOMEZ PALMES, Angeles;Gerencia de Administración y Finanzas;Jefe de Tesorería
+294;BERRONDO, César Daniel;Gerencia de Operaciones;PMO
+296;CAMPOY, Néstor;Gerencia de Operaciones;Asistente Administrativo
+297;BOLDT, Roberto;Gerencia de Servicios Espaciales;Instalador VSAT/TDS
+302;MERLINI, Pedro;Gerencia de Asuntos Jurídicos;Jefe de Dictámenes
+303;PAGLIONE, Andrea;Gerencia Comercial;Analista de Preventa
+305;MOLINA, Martin Maximiliano;Gerencia de Servicios Espaciales;Controlador Satelital
+306;VOSS, Carlos Alberto;Gerencia de Relaciones Institucionales;Analista de Comunicación y Prensa
+310;MOYA, Miguel Angel;Gerencia de Operaciones;Analista de Control de Facturación
+312;PENA, Claudio;Gerencia de Operaciones;Asistente Administrativo
+314;ROMERO, Eduardo;Gerencia de Tecnología Informática;Operador Electromecánico
+316;HARDT, Miguel Alejandro;Subgerencia de Servicios Corporativos y Logística;Especialista en Aire Acondicionado
+317;CORDON, Diego Jose;Gerencia de Operaciones;Operador NOC
+325;MENDEZ, Ariel Nicolas;Gerencia de Operaciones;Inspector de Obras
+326;PROETTO, Leonardo Cesar;Gerencia de Tecnología Informática;Administrador IT
+328;QUINTERO, Marcelo Fabian;Gerencia de Operaciones;Inspector de Obras
+330;BARRIENTOS, Pablo Javier;Gerencia de Operaciones;Asistente Administrativo
+335;FRESCO, Federico;Gerencia de Tecnología Informática;PM
+336;CARMONA, Sebastian Mauricio;Gerencia Comercial;Ejecutivo de Cuentas
+337;CAMPORRO, Gustavo Adolfo;Gerencia de Tecnología Informática;Analista GIS
+338;MAGNARELLI, Hernan Gabriel;Gerencia de Tecnología Informática;PM
+339;ALVAREZ, Fernando ;Gerencia de Tecnología Informática;Coordinador de TI
+341;LEDESMA, Natalia;Gerencia de Operaciones;Agente de CAC
+343;CARREIRO, Martin Alberto;Subgerencia de Servicios Corporativos y Logística;Jefe de Flota
+344;SARAVIA, Alberto Daniel;Gerencia Comercial;Analista de Preventa
+346;SENRA, Juan Enrique;Gerencia Comercial;Auxiliar Administrativo
+348;SANTOS, Guillermo Ariel;Gerencia de Tecnología Informática;Jefe de Electromecánica
+350;NAVARRO, Jose Maria;Gerencia de Administración y Finanzas;Analista Contable
+351;MORENO, Antonio Alfredo;Gerencia Comercial;PM de Gestión de Servicios
+356;NOCERINO, Marcela Liliana;Gerencia de Tecnología Informática;Analista Electromecánico
+358;ZURA, Juan Martin;Gerencia de Servicios Espaciales;Ingeniero de HUB Satelitales
+362;BOVA, Felipe Martin;Gerencia de Operaciones;Ingeniero de Red
+364;DUCCA, Javier Marcelo;Gerencia de Tecnología Informática;Operador Electromecánico
+365;VALLE, Carolina Eliana;Gerencia de Administración y Finanzas;Analista Contable
+367;ALBITE, Pedro Domingo;Gerencia Comercial;Ejecutivo de Cuentas
+368;MAZZOLI, Ester ;Gerencia de Operaciones;Asistente Administrativo
+370;PEREZ, Ariel Hernan;Gerencia de Servicios Espaciales;Supervisor de Gestión APN
+377;GRAÑA, Roberto;Gerencia de Administración y Finanzas;Analista de Presupuesto
+378;RIVERO, Juan Angel;Gerencia de Tecnología Informática;Operador Electromecánico
+379;QUINTIN LIZCANO, Rony Guillermo;Gerencia de Servicios Espaciales;Ingeniero de Sistemas Satelitales de TV
+380;MONTERO, Mauro Nahuel;Gerencia de Operaciones;Técnico de Aceptación
+381;RODRIGUEZ REYNES, Natalia Pamela;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+382;OLIVERA, Pablo Diego;Gerencia Comercial;Ejecutivo de Cuentas
+383;TAPHANEL, Pablo Renato;Gerencia de Tecnología Informática;Analista Electromecánico
+384;SIMON, Mariana Lorena;Gerencia de Administración y Finanzas;Coordinador de Cuentas a Pagar
+387;CASCARINI, Guido;Gerencia Comercial;Analista de Mercado
+388;PETER, Alexis;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+389;DI VENANZIO, Federico;Gerencia de Servicios Espaciales;Ingeniero de HUB Satelitales
+390;PITRELLA, Alfio ;Gerencia de Asuntos Jurídicos;Jefe de Administración Comercial
+392;CELLINI, Julian ;Gerencia de Tecnología Informática;Desarrollador
+397;DIAZ FONTANA, Victor Daniel;Gerencia de Operaciones;Responsable de Proyectos Especiales GO
+398;SANCHO MIÑANO, Guillermo;Gerencia de Operaciones;GO Tucumán
+399;CANGIOLI, Gabriel Humberto;Gerencia de Operaciones;GO Neuquén
+401;CASALIA, Horacio Javier;Gerencia de Operaciones;Coordinador de GO AMBA
+402;ECHEVARRIA, Julio Maria;Subgerencia de Servicios Corporativos y Logística;Mantenimiento de Infraestructura de TDA
+403;VICTORIO CONTRERAS, Gabriel;Gerencia de Operaciones;Supervisor de Despliegue de Infraestructura
+404;BENICIO, Julio Alejandro;Gerencia de Operaciones;Especialista NOC Nivel 3
+405;PEREZ, Monica Edith;Gerencia de Tecnología Informática;Analista Funcional
+406;SENLLE PRADO, Pablo Hernan;Gerencia de Operaciones;Supervisor de Despliegue de FO
+407;RASTRILLA, Lucas Martin;Gerencia de Operaciones;Responsable de Proyectos Especiales GO
+408;CHAZARRETA, Mauricio Diego;Gerencia de Operaciones;Coordinador de GO Centro
+409;GAGISKIS, Hugo Alberto;Gerencia Comercial;Ejecutivo de Cuentas
+410;MERCADO, Gustavo Daniel;Gerencia de Operaciones;Técnico Referente FO
+411;DURAN, Liliana Patricia;Gerencia de Operaciones;Líder de Proyectos
+412;PUYANE, Julio Cesar;Gerencia de Operaciones;Coordinador GO Norte
+413;HERCHI, Nestor Javier;Gerencia de Operaciones;Inspector de Obras
+414;GENCHI, Gustavo Julian;Gerencia de Operaciones;GO Bahía Blanca
+415;VEGA, Fabian Emmanuel;Gerencia de Operaciones;Técnico Referente NR
+416;CONTRERAS, Marcelo Adrian;Gerencia de Operaciones;Responsable de Mantenimiento de FO
+417;RAMOS, Ramon Roberto;Gerencia de Operaciones;Técnico Referente
+419;AKERMAN, Pablo Oscar;Gerencia Comercial;Analista de Preventa
+420;MAJAUSKAS, Gustavo Alfredo;Gerencia de Operaciones;Ingeniero Especialista en Infraestructura
+423;JOHER, Juan Carlos;Gerencia de Operaciones;Subgerente de NOC REFEFO
+424;ACUÑA, Jorge Luis;Gerencia de Servicios Espaciales;Controlador Satelital
+425;CARDARELLI, Javier Hernan;Gerencia de Operaciones;GO Benavidez
+427;GONZALEZ, Paula Eliana;Directorio;Administrativo
+428;CAPAMADJIAN, Claudio Alejandro;Gerencia de Operaciones;Ingeniero Especialista en Infraestructura
+430;GARCIA, Gonzalo Damian;Gerencia de Servicios Espaciales;Controlador Satelital
+434;FISCARDI, Diego Leonardo;Gerencia de Administración y Finanzas;Analista de Presupuesto y control presupuestario
+435;MAMANI, Alberto Sebastian;Gerencia de Servicios Espaciales;Especialista NOC Nivel 3
+436;LUCHINI, Luis Norberto;Gerencia de Tecnología Informática;Operador Electromecánico
+438;MORUGA, Gabriel Andres;Gerencia de Servicios Espaciales;Técnico de Operaciones y Mantenimiento
+440;PUERTAS, Eduardo David;Gerencia de Tecnología Informática;Operador NOC
+441;AREVALO, Pablo Hernan;Gerencia de Tecnología Informática;Operador NOC
+443;FUENTE, Santiago Martin;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+448;CASTRO ARCE, Jorge Gonzalo;Gerencia de Operaciones;Ingeniero de Planta Externa
+451;INOFRE, Ramon Carlos David;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+452;LOPEZ, Mariano Javier;Gerencia de Operaciones;Especialista
+453;NEGRI, Alejandro Daniel;Gerencia de Operaciones;Ingeniero Especialista en Infraestructura
+455;KASPARIK, Dagma Veronica;Gerencia Comercial;Ejecutivo de Cuentas
+457;SMOLE, Maria Laura;Subgerencia de RRHH y RSE;Analista de Administración de Personal
+459;ALANIS, Cristian Jose;Gerencia de Servicios Espaciales;Ingeniero de Operaciones
+460;VORRO, Maria Jimena;Subgerencia de Servicios Corporativos y Logística;Arquitecto
+461;BECONI, Mercedes Cristina;Gerencia de Tecnología Informática;Jefe de Sistemas Corporativos
+465;SILVESTRI CAPRA, Leandro Ezequiel ;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+468;MARTINELLI, Federico Jose;Gerencia de Operaciones;Técnico Referente
+470;TISSERA, Esteban Manuel;Gerencia de Tecnología Informática;Subgerente de Datacenter
+471;ALVAREZ SLOWIK, Gonzalo Emilio;Subgerencia de RRHH y RSE;Analista de Compensaciones y Beneficios
+472;ALONSO, Gustavo German;Gerencia de Administración y Finanzas;Analista de Compras
+474;DIAZ CASTILLO, Olga Cecilia;Gerencia de Tecnología Informática;Analista de QA
+477;ATENCIO, Fernando;Gerencia de Servicios Espaciales;Controlador Satelital
+478;GARCIA, Paula;Gerencia de Administración y Finanzas;Analista de Cuentas a Pagar
+481;PISILLI, Jorge Norberto;Gerencia de Servicios Espaciales;Controlador Satelital
+483;LUCERO, Mariano Jorge;Gerencia de Operaciones;Técnico de Aceptación
+485;VITANZA, Marcelo Antonio Domingo;Gerencia de Operaciones;GO Córdoba
+486;MALANO, Juan Jose;Gerencia de Operaciones;GO Santa Fe
+487;LABELLA, Jose Luis;Gerencia de Operaciones;GO Concordia
+490;COLL, Rafael Alberto;Gerencia de Operaciones;Técnico Referente FO
+491;LUCERO, Daniel ;Gerencia de Operaciones;Técnico Referente
+492;VELOZO, Fabian Jose;Gerencia de Operaciones;GO Resistencia
+493;AGUIRRE, Juan German;Gerencia de Operaciones;Analista de cumplimiento de OT
+494;FILIPPI, Marcelo Javier;Gerencia de Operaciones;Técnico Referente FO
+496;LOPEZ, Ariel Fernando;Gerencia de Operaciones;GO La Plata
+497;BONELL, Ricardo Alejandro;Gerencia de Operaciones;Técnico de Provisión de servicio al Cliente
+498;ROMERO, Cristian Daniel;Gerencia de Operaciones;Técnico de Aceptación
+499;BUSTOS, Alberto Julio;Gerencia de Operaciones;Operador NOC
+500;CARRILLO, Javier Alejandro;Gerencia de Tecnología Informática;Operador SOC
+501;VIEDMA, German Sixto;Gerencia de Operaciones;Despliegue de Infraestructura
+502;GIOIA, Ariel Omar;Gerencia Comercial;PM de Gestión de Servicios
+505;SOTTILE, Lucia;Gerencia de Administración y Finanzas;Analista de Cobranzas
+506;CONTRERAS LAFUENTE, Esteban Alejandro;Gerencia de Operaciones;GO Resistencia
+508;SEMINO, Marcelo Gustavo;Gerencia de Tecnología Informática;Analista de Seguimiento
+509;PREIDE, Alberto Horacio;Gerencia de Tecnología Informática;Operador Electromecánico
+512;RIOPEDRE, Jose Ignacio;Gerencia de Administración y Finanzas;Coordinador de Cuentas a Cobrar y Facturación
+513;LEGUIZAMON, Alejandro Uriel;Gerencia de Servicios Espaciales;Controlador Satelital
+522;DUARTE, Angelina;Gerencia de Operaciones;Agente de CAC
+524;ROMERO, Cecilia Soledad;Gerencia de Administración y Finanzas;Analista de Facturación
+526;RODRIGUEZ, Keila Muriel;Gerencia Comercial;Facturacion
+529;SILLONE, Jorge Osvaldo;Gerencia de Relaciones Institucionales;Analista de Comunicación y Prensa
+531;NISSERO, Bruno;Subgerencia de RRHH y RSE;Jefe de Seguridad, Higiene y Medioambiente
+532;ROSSI, Gustavo Martin;Gerencia de Tecnología Informática;Gerente de Tecnología Informática
+536;TORTORA, Nicolas Aberto;Gerencia de Operaciones;GO Rosario
+538;LODEIRO, Marcelo Javier;Gerencia de Administración y Finanzas;Responsable de Impuestos
+539;MARTINEZ, Emmanuel;Gerencia de Operaciones;Supervisor de Implementación de Clientes
+541;NEZNAJKO, Matias;Gerencia de Operaciones;Técnico Referente FO
+543;PEDREIRA, Carlos Rodrigo;Gerencia de Tecnología Informática;Administrador de Infraestructura
+544;SCHAMBERGER, Sebastian Matias;Gerencia de Operaciones;GO Bariloche
+546;FERNANDEZ, Nicolas Martin;Gerencia de Operaciones;GO Bahía Blanca
+547;ACOSTA, Carlos Emiliano;Gerencia de Tecnología Informática;Operador NOC
+549;CAMARA, Juliana Maria;Gerencia de Tecnología Informática;Analista Funcional
+550;CENTANNI, Isidoro;Gerencia Comercial;Analista de Presupuesto y Control de Gestión
+551;PONCE, Matias Federico;Gerencia de Operaciones;Ingeniero de Red
+552;DE MARY, Emiliano Nahuel;Gerencia de Tecnología Informática;Administrador IT
+555;CHAPARRO, Agustin;Gerencia de Tecnología Informática;Analista de Soporte
+556;GARCIA ROZAS, Martin Federico;Gerencia de Operaciones;Supervisor de Gestión de Sitios
+559;DEL VALLE, Maria Serena;Gerencia Comercial;PM de Gestión de Servicios
+562;GARCIA, Gerardo Ignacio;Gerencia de Operaciones;Coordinador NOC
+565;ROSSI, Marcos Alberto;Gerencia de Operaciones;Técnico Referente
+566;AGUIRRE, Gabriel Alejandro;Gerencia de Operaciones;Técnico Referente
+567;ROVIRA, Alberto Jose;Gerencia de Operaciones;Técnico Referente CE
+569;RUS, Guillermo Jorge;Directorio;Director
+572;MAYTA NUÑEZ, Kelvin Juan;Gerencia de Tecnología Informática;Coordinador SOC
+573;MARTIRE, Leticia Maria;Gerencia de Tecnología Informática;Analista Funcional
+574;ALBERDI, Nahuel Nicolas;Gerencia de Tecnología Informática;PM  
+575;AQUINO, Manuel Agustin;Gerencia de Tecnología Informática;Desarrollador
+576;FRANCE, Norman Alexis;Gerencia de Operaciones;Técnico Referente FO
+578;RAVELLI, Luciano Leandro;Gerencia de Operaciones;Técnico Referente
+579;LAPUENTE, Sofia;Gerencia Comercial;Auxiliar Administrativo
+582;LOPEZ MAC LOUGHLIN, Moira Ines;Gerencia Comercial;Auxiliar Administrativo
+583;PUCHE, Rosario Evelyn;Gerencia de Tecnología Informática;Operador NOC
+584;GARCIA MUÑOZ, William Alberto;Gerencia de Operaciones;Supervisor de Planeamiento e Infraestructura
+585;JACIUK, Maximiliano Sebastian;Gerencia de Servicios Espaciales;Jefe de Ingeniería de Servicios Satelitales
+586;FRELLATT, Claudio David;Gerencia de Operaciones;Técnico Referente
+589;AMAYA, Pablo Eugenio;Gerencia de Operaciones;GO Comodoro Rivadavia
+591;SALAS VALDEZ, Emiliano Ismael;Gerencia de Tecnología Informática;Operaciones Electromecanicas
+593;HEINZE, Ernesto Heriberto;Gerencia de Operaciones;Operador NOC
+594;SCHWARTZ, Sebastian Alejandro;Gerencia de Operaciones;Operador NOC
+596;HORIANSKI, Manuel Alejandro;Gerencia de Operaciones;Técnico Referente NR
+597;ROVNER, Gabriela;Gerencia de Administración y Finanzas;Analista de Cuentas a Pagar
+598;FREYBERG, Diego Javier;Gerencia de Operaciones;Ingeniero de Red
+599;MORO, Jorge Daniel;Gerencia de Operaciones;GO Resistencia
+600;STEFANUTO, Cesar Horacio;Gerencia de Operaciones;GO Junín
+601;SAPERAS, Leandro Nicolas;Gerencia de Operaciones;GO Concordia
+602;GARCIA, Christian Lionel;Gerencia de Operaciones;Coordinador de GO Sureste
+603;STAUBER, Marcos Nahuel;Gerencia de Operaciones;Técnico Referente NE
+604;CATALDI FASTAME, Ignacio Diego;Gerencia de Tecnología Informática;Infraestructura IT
+606;DECHIARA, Matias Angel;Gerencia de Operaciones;GO Ceres
+608;CAMPOS, Luis Alejandro;Gerencia de Operaciones;GO Río Gallegos
+609;GIACOLLA, Danilo Ennio Silvio;Gerencia de Operaciones;GO Rosario
+610;PEDONE, Maria del Sol;Gerencia de Administración y Finanzas;Analista de Cuentas a Pagar
+613;REARTE, Carla Alejandra;Gerencia de Operaciones;Operador NOC
+615;VILLASBOAS, Ricardo Jorge;Gerencia de Operaciones;Técnico Referente NR
+616;HORN, Mariano;Gerencia de Tecnología Informática;Analista de Soporte
+617;SANTINO, Maximiliano Alejandro;Gerencia de Operaciones;Especialista NOC Nivel 3
+618;GHIRARDI COSTA, Gabriel Esteban;Gerencia de Operaciones;GO Santa Fe
+619;GHESSI, Diego Ruben Jesus;Gerencia de Operaciones;GO San Rafael
+622;DUBOSQ, Jose Luis;Gerencia de Operaciones;Especialista NOC Nivel 3
+623;CHAMBI VILLARROEL, Jorge Humberto;Gerencia de Operaciones;Especialista NOC Nivel 3
+624;JACOB, Carla Daniela;Gerencia de Tecnología Informática;Operador NOC
+625;ZONTA, Nicolas Matias;Gerencia de Operaciones;Operador NOC
+626;DAMBOLENA, Gabriel Adrian;Gerencia de Operaciones;Operador NOC
+630;QUISPE PUMA, Nerio;Directorio;Chofer
+631;FRUTOS, Jeremias;Gerencia de Servicios Espaciales;Operador NOC
+633;ARMADA, Fernando Jorge;Gerencia de Operaciones;Técnico de Aceptación
+634;DAGNA CATALANO, Mariano José;Gerencia de Operaciones;Ingeniero de Red
+635;MERINO, Maria Cecilia;Gerencia de Administración y Finanzas;Responsable de Comercio Exterior
+639;RAGGIO, Gaston Federico;Gerencia Comercial;Responsable del Proyecto VOD
+641;TRAVAGLIA, Egon Bruno;Gerencia de Operaciones;Analista de Red
+643;SERVIDIO, Franco Martin;Gerencia de Tecnología Informática;Operador Electromecánico
+644;CUSTODIA, William Ezequiel;Gerencia de Tecnología Informática;Administrador IT
+646;ASTA, Laura Cecilia;Gerencia de Operaciones;Soporte Administrativo
+647;LABORDE, Pablo Alejandro;Gerencia de Tecnología Informática;Coordinador de Continuidad
+648;CARPILOVSCA ZARATE, Maria Sol;Gerencia de Operaciones;Administración de repuestos
+649;VANELLI, Lucas Agustin;Gerencia de Administración y Finanzas;Analista de Cobranzas
+650;LAFFONT, Rodolfo Andres;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+652;CHAVEZ, Angel Norberto;Gerencia de Tecnología Informática;Operador NOC
+664;GONZALEZ, Natalia;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+673;GARCIA, Maria Herminia Angelica;Secretaría General;Jefe de Convenios Interadministrativos
+674;GALEANO, Daniel Alejandro;Gerencia de Administración y Finanzas;Cadete
+677;MICELI, Joaquin Eduardo;Gerencia de Tecnología Informática;Administrador de Seguridad Informática
+678;ANDRADE, Maria Pia;Gerencia de Administración y Finanzas;Analista de Compras
+682;ARATER, Ezequiel Raul;Gerencia de Tecnología Informática;Analista Electromecánico
+683;ESCOBEDO, Javier Sebastian;Gerencia de Tecnología Informática;Operador Electromecánico
+684;DOMINGO, Alejandro Federico;Gerencia de Tecnología Informática;Coordinador de Proyectos
+685;SERI, Gabriel Enrique;Gerencia de Tecnología Informática;Administrador IT
+687;IMAS, Sebastian Ezequiel;Gerencia de Tecnología Informática;Analista de Soporte
+689;MARTIN, Mariano Matias;Gerencia de Operaciones;Ingeniero de Red
+690;JUAREZ, Leandro;Gerencia de Tecnología Informática;Operador de backup
+691;LEAL, Ezequiel;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+693;LOPEZ, Javier Heriberto;Gerencia de Tecnología Informática;Operador Electromecánico
+694;RIVERO, Pablo Ezequiel;Gerencia de Tecnología Informática;Subgerente de Ciberseguridad y TI
+696;SCOLLO, Marcelo Alejandro;Gerencia de Tecnología Informática;Operador NOC
+697;LOPEZ, Ruben Anibal;Gerencia de Tecnología Informática;Analista de Seguimiento
+698;FERNANDES OÑEDERRA, Martin Angel;Gerencia de Tecnología Informática;Operador NOC
+699;LUCIANI, Guillermo Jose;Gerencia Comercial;Ejecutivo de Cuentas
+700;NOGUEIRA, Martin Hipolito;Gerencia de Tecnología Informática;Coordinador de Plataformas
+705;ARIAS TINOCO, Jenrry Joel;Gerencia de Tecnología Informática;Operador NOC
+707;BRAVO, Adrian Norberto;Gerencia de Operaciones;Especialista NOC Nivel 3
+710;VAZQUEZ, Francisco Gabriel;Gerencia de Tecnología Informática;Operador de redes
+711;CASSINI, Diego Leonel;Subgerencia de RRHH y RSE;Analista de Selección de Personal
+712;PICON, David Alberto;Gerencia de Operaciones;Especialista NOC Nivel 3
+715;SCHMIDT, Walter Federico;Gerencia Comercial;Líder de Producto
+718;CARBONELL, Cynthia Elizabeth;Gerencia de Operaciones;Analista de Administración y Métricas
+719;LAMOTA, Martin Hernan;Gerencia de Operaciones;Coordinador NOC
+721;COSTANTINO, Maria Belen;Gerencia de Administración y Finanzas;Analista de Facturación
+727;NAVARRO, Cristian Agustin;Gerencia de Servicios Espaciales;Ingeniero de Sistemas Satelitales de TV
+729;ZURA, Maximiliano Ezequiel;Gerencia de Servicios Espaciales;Ingeniero Junior de Administración de HUB
+731;SUAREZ, Juan Manuel;Gerencia de Servicios Espaciales;Operador NOC
+732;BARITE, Damian Fernando;Gerencia de Operaciones;Operador NOC
+733;AEDO TORRES, Carlos Rodrigo;Gerencia de Operaciones;Operador NOC
+734;CAINELLI, Conrado Lionel;Gerencia de Operaciones;GO Formosa
+735;INSAURRALDE, Ramon Osvaldo;Gerencia de Operaciones;Técnico Referente CE
+738;AGUIRRE, Emiliano Ezequiel;Gerencia de Operaciones;GO Río Cuarto
+739;VEGLIENZONE, Santiago;Gerencia de Operaciones;GO Gualeguaychú
+740;FIGUEROA, Sergio Omar;Gerencia de Operaciones;Coordinador de GO Norte
+741;HELBLING, Facundo Martin;Gerencia de Operaciones;GO Sáenz Peña
+743;MANSILLA, Jorge Nelson;Gerencia de Operaciones;GO Añatuya
+745;ANDRADE, Facundo Ruben;Gerencia de Operaciones;Técnico Referente
+748;TEMES, Camila;Gerencia de Servicios Espaciales;Asistente
+750;MENDOZA, Carlos Antonio;Gerencia de Operaciones;GO Las Lomitas
+751;SCHNEEBERGER, Rodrigo Sebastian;Gerencia de Operaciones;Técnico Referente NE
+752;ORCELLET, Gaston Martin;Gerencia de Operaciones;Técnico Referente NE
+753;ORELLANO, Luciano Enrique;Gerencia de Operaciones;Técnico Referente CE
+754;MONTIAL, Roberto Gabriel;Gerencia de Operaciones;GO Salta
+755;GALLEGO, Gustavo Roberto;Gerencia de Operaciones;GO Concordia
+756;BILOTTI, Daniel Alejandro;Gerencia de Operaciones;GO Santiago del Estero
+757;FERNANDEZ, Luciano Ismael;Gerencia de Operaciones;GO Benavidez
+758;GIMENEZ, Julio Antonio Dante;Gerencia de Operaciones;GO La Rioja
+761;FERNANDEZ, Matias Sebastian;Gerencia de Administración y Finanzas;Analista de Impuestos
+762;CHIGUAY, Lucas Jesus;Gerencia de Operaciones;GO Bariloche
+764;MAZALAN, Maria Laura;Gerencia de Servicios Espaciales;Ingeniero Junior de Sistemas Satelitales
+766;GUERCIO, Elio Marcelo;Gerencia de Operaciones;GO Bariloche
+768;SILVA, Gonzalo;Gerencia de Tecnología Informática;Operador SOC
+770;PUGLISI, Cristian Jose;Gerencia de Servicios Espaciales;Operador NOC
+772;AYALA PEÑARANDA, William Fernando;Gerencia de Operaciones;Especialista NOC Nivel 3
+773;OLMOS, Sara Vanesa;Gerencia Comercial;Ejecutivo de Cuentas
+774;MORILLO, Diego Emiliano;Gerencia de Tecnología Informática;Operador NOC
+776;PONCE DE LEON, Maria Florencia;Gerencia de Tecnología Informática;Operador NOC
+778;SPAGNOLI, Giannina Alejandra;Gerencia de Operaciones;Analista de Administración de Sitios
+779;BOGADO, Matias;Gerencia de Operaciones;GO Córdoba
+783;LEDO, Diego Hernán;Gerencia de Operaciones;Técnico Referente
+784;GABER, Ernesto Alejandro;Gerencia de Servicios Espaciales;Operador NOC
+785;MOLINA TURCO, Enzo Emanuel;Gerencia de Operaciones;Técnico Referente CE
+786;QUINTERO, Jorge Gabriel;Gerencia de Operaciones;Técnico Referente NR
+787;OCETE, Diego Gabriel;Gerencia de Operaciones;Técnico Referente NE
+788;GIULIANI, Eduardo Daniel;Gerencia de Operaciones;GO Formosa
+789;GONZALEZ, Juan Cruz;Gerencia de Operaciones;GO Reconquista
+791;MIRANDA, Francisco;Gerencia de Servicios Espaciales;Especialista NOC Nivel 3
+792;CALLES, Matías Ezequiel;Gerencia de Operaciones;Analista de cumplimiento de OT
+795;SOSA MORALES, Jesús Alberto;Gerencia de Operaciones;Ingeniero de Red
+796;KELLER, Mario Alberto;Gerencia de Operaciones;Operador NOC
+798;RODRIGUEZ, Lucas Osvaldo;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+800;BORREGO, Matias Nahuel;Gerencia de Operaciones;Técnico de Provisión de servicio al Cliente
+803;BAZAN, Juan Orlando;Gerencia de Operaciones;Supervisor NOC
+804;BILLIANI, Ezequiel Alejandro;Gerencia de Servicios Espaciales;Operador NOC
+805;KUHNEL, Andrés Marcelo;Gerencia Comercial;Ejecutivo de Cuentas
+806;LARGHI, Maria Elisa;Gerencia de Operaciones;Auxiliar Administrativo
+808;SANCHEZ, Rodrigo Ezequiel;Gerencia de Operaciones;Operador NOC
+810;ALMAZAN, Nestor Julián;Gerencia de Operaciones;GO San Rafael
+813;RASO, Nicolás Rodrigo;Gerencia de Asuntos Jurídicos;Auxiliar Administrativo
+814;ARGUELLO, Iván Enrique;Gerencia de Operaciones;GO Mendoza
+815;COLMEGNA, Adrián Ezequiel;Gerencia de Operaciones;GO Junín
+816;MICHEL, Eric Andres;Gerencia de Operaciones;Técnico Referente NE
+817;RUIZ, Wilfredo Francisco;Gerencia de Operaciones;GO Humahuaca
+818;PALAVECINO, Miguel Angel;Gerencia de Operaciones;GO Sáenz Peña
+819;CABRAL, Luis Andrés;Gerencia de Operaciones;GO Chos Malal
+820;FERNANDEZ VALIÑA, Gastón Ramiro Ezequiel;Gerencia de Operaciones;Técnico Referente
+821;LANDAIDA, Cristian Luis;Gerencia de Operaciones;GO El Dorado
+822;NIETO, Nicolás Ezequiel;Gerencia de Operaciones;GO Córdoba
+823;CORBO, Sebastián Claudio;Gerencia de Operaciones;GO Santa Fe
+826;BEN, Mauricio Alberto;Gerencia de Operaciones;GO Trenque Lauquen
+827;CASARES, Esteban Nicolás;Gerencia de Operaciones;GO Jujuy
+828;FRIGO, Esteban Luis;Gerencia de Operaciones;Técnico Referente
+834;CHIARAMONTE, Pablo Carlos;Gerencia de Operaciones;GO Junín
+835;RODRIGUEZ MORENO, Guillermo José;Gerencia de Operaciones;GO Viedma
+838;VIDELA VARGAS, Pablo Daniel;Gerencia de Operaciones;GO San Juan
+839;ROMERO, Octavio Waldemar;Gerencia de Operaciones;GO Chos Malal
+840;CASAL, Pablo Federico;Gerencia de Operaciones;Técnico Referente
+841;GONZALEZ, Cristian Andres;Gerencia de Operaciones;GO San Juan
+842;MIANO, Francisco Valentín;Gerencia de Tecnología Informática;Analista Funcional
+843;BRIZUELA, Horacio Jose;Gerencia de Administración y Finanzas;Jefe de Análisis de Costo, Riesgo y Calidad
+853;TORREIRO, Julián Andrés;Gerencia Comercial;Ejecutivo de Cuentas
+855;SOTES PALADINO, Juan Carlos;Gerencia de Operaciones;GO Azul-Olavarría
+860;LEZCANO, Paola Cintia;Gerencia de Operaciones;Analista de Administración de Sitios
+861;CASTELUCHE, Leonela Denise;Gerencia de Operaciones;Analista de Administración de Sitios
+864;CASTILLO, Alberto Martin;Gerencia de Operaciones;Técnico Especialista de Red
+865;LUBARY, Antonio Maria;Gerencia de Tecnología Informática;Ingeniero de Seguridad Informática
+872;GONNELLI, Laura Judith;Subgerencia de Servicios Corporativos y Logística;Asesor Técnico
+873;ARMANDO, Cecilia;Gerencia de Relaciones Institucionales;Coordinador de Relaciones Institucionales
+875;PAGLIARO, Gina Antonella;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+876;BARBONAGLIA, Anabella;Gerencia de Tecnología Informática;Coordinador de Gestión Operativa
+879;MESSA, Juan Manuel;Gerencia de Tecnología Informática;Administrador IT
+880;SREBERNICH, Laura Elena;Gerencia de Tecnología Informática;Operador NOC
+881;MADERA, Gabriel Oscar;Gerencia de Tecnología Informática;Analista Electromecánico
+882;KOLARIK, Pablo Facundo;Gerencia de Operaciones;Operador NOC
+884;AGUIRRE, Luis Guillermo;Gerencia de Tecnología Informática;Operador Electromecánico
+885;PREITI, Alejandro Antonio;Gerencia de Tecnología Informática;PM
+886;MOLTRASI, Gilda;Gerencia de Tecnología Informática;Analista de Gestión Operativa
+887;CROSIO, Daniel Sergio;Gerencia de Tecnología Informática;Administrador de Seguridad Informática
+889;BOUQUET, Jonathan Nahuel;Gerencia de Tecnología Informática;Administrativo
+891;IGUAIN, Martin;Gerencia Comercial;Ejecutivo de Cuentas
+893;D ALOISIO, Diego;Gerencia de Tecnología Informática;Operador IT
+894;MACCARONE, Natalia Soledad;Gerencia de Tecnología Informática;Soporte Administrativo
+896;ESCOBAR, Mauricio Alfredo;Gerencia de Tecnología Informática;Administrador de Storage
+901;NIEVA, Federico Gaston;Gerencia de Tecnología Informática;Operador IT
+903;CIFUENTES CAMPOLO, Daniel Alejandro;Gerencia de Tecnología Informática;Operador IT
+906;ANGAROLA, Adriana Silvina;Gerencia de Asuntos Jurídicos;Jefe de Litigios
+909;VALENTI, Maria Cecilia;Gerencia de Servicios Espaciales;Ingeniero de Guiado, Navegación y Control
+910;LOEDA, Milagros;Gerencia de Operaciones;Analista de Administración de Sitios
+911;SURACE, Mariela;Gerencia de Administración y Finanzas;Analista de Tesorería
+912;PAZ, Sandra Noemí;Secretaría General;Asesor Jurídico
+919;CORONEL, Claudia Carolina;Subgerencia de RRHH y RSE;Analista de Liquidación de Sueldos
+921;FERNANDO, Manuel Gonzalo;Gerencia de Operaciones;GO La Rioja
+925;LAVARINI, Matias;Gerencia de Operaciones;GO Viedma
+927;AMAYA, Maria Laura;Secretaría General;Auxiliar Traductora
+930;CAMPOLUNGO, Alejandra Nora;Gerencia de Administración y Finanzas;Analista de Cobranzas
+931;MERCAU, Francisco Gustavo;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+935;LABAYRU, Lourdes Maria;CEATSA;Analista Administrativo Contable
+941;COZZI, Hector Gerardo;Gerencia de Operaciones;Supevisor Ultima Milla
+942;GONZALEZ, Fernando Favio;Gerencia de Operaciones;Analista de Administración de Sitios
+944;SCAFATI, Maria Aleandra;Subgerencia de RRHH y RSE;Jefe de RSE
+951;GONZALEZ KEOGAN, Fernando Tomas;Gerencia de Operaciones;Analista de Implementación
+952;FERNANDEZ LABRIOLA, Alejandra;Gerencia Comercial;PM de Gestión de Servicios
+953;MAIO YEBRA, Mauro Gaston;Gerencia Comercial;Analista de Contratos
+955;PROVITINA, Ariel Alejandro;Gerencia de Operaciones;Ingeniero de Planta Externa
+956;VILLANUEVA, Verónica Natalia;Gerencia Comercial;Ejecutivo de Cuentas
+957;GIROTTI, Bruno Hernán;Gerencia de Operaciones;Ingeniero de Red
+958;ÑIQUEN TEJADA, Juan Milton;Subgerencia de Servicios Corporativos y Logística;Clarkista
+960;SCALZO, Marcelo Roberto;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+961;CRISTINO, Federico Alejandro;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+962;HERRERA, Mariano Martin;Secretaría General;Auxiliar de archivo
+963;MARCOVECCHIO, Agustín;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+965;PATRON COSTAS, Carolina;Gerencia Comercial;Ejecutivo de Cuentas
+966;LUDUEÑA, Gaston Lautaro;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+967;VEGA, Orlando Fabian;Gerencia de Operaciones;Analista de Gestión de Permisos
+969;SIMONIAN, Alexis José;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+970;CARRICABURO, Luciano;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+971;LOUSAME, Ignacio Sebastian;Gerencia Comercial;Ejecutivo de Cuentas
+972;RUSSO, Emmanuel Jesus;Subgerencia de Servicios Corporativos y Logística;Analista de Flota
+973;DIAZ, Analia;Gerencia Comercial;Ejecutivo de Cuentas
+974;ESPOSITO, Maria de los Angeles;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+975;FERNANDEZ, Rodolfo Sebastian;Gerencia de Operaciones;Inspector de Obras
+976;LORENZO, Felipe Santiago;Gerencia de Operaciones;GO Catamarca
+977;SANGUINETTI, Lucas Franco;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+978;VALENZUELA, Ismael Ezequiel;Gerencia de Tecnología Informática;Analista de Soporte
+979;RODRIGUEZ NAVAZO, Sebastián Ariel;Gerencia Comercial;Ejecutivo de Cuentas
+982;IBERRA, Gustavo Adrián;Subgerencia de Servicios Corporativos y Logística;Auxiliar Técnico
+983;CASSANELLI, Nahuel Ariel;Subgerencia de Servicios Corporativos y Logística;Auxiliar Técnico
+984;GALLO, Martin;Subgerencia de RRHH y RSE;Auxiliar Técnico
+985;GAUNA, Carlos Héctor;Subgerencia de Servicios Corporativos y Logística;Auxiliar Técnico
+988;TAVERNA, Agostina;Gerencia de Tecnología Informática;Líder de Proyectos
+990;FABARO, Antonela Luz;Gerencia de Relaciones Institucionales;Analista de Redes Sociales
+991;SILVESTRI CAPRA, Christian Gabriel;Gerencia de Tecnología Informática;Operador CERT Ciberseguridad
+992;TEVEZ, Matías Ezequiel;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+993;BARRIENTOS, Sergio Daniel;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+996;LOPEZ, Fernando Ariel;Gerencia de Administración y Finanzas;Analista de Tesorería
+997;NUÑEZ, Julian Daniel;Gerencia de Servicios Espaciales;Operador NOC
+1000;LOMBARDO, Fabio Luis;Secretaría General;Auxiliar Administrativo
+1001;ZUÑIGA, Nahuel Hernán;Gerencia Comercial;Auxiliar Administrativo
+1002;SILVA, Jesica Noemí;Subgerencia de Servicios Corporativos y Logística;Asistente
+1003;SIMONE, Ana Claudia;Gerencia de Operaciones;Analista de Administración de Sitios
+1004;STABILE, Martin;Gerencia de Tecnología Informática;Analista de Soporte
+1005;ARGAÑARAZ, Daiana Antonella;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1007;SCALERA JUAREZ, Tomas Ignacio;Subgerencia de Servicios Corporativos y Logística;Auxiliar Técnico
+1008;RODRIGUEZ, Sergio Ricardo;Gerencia de Operaciones;Inspector de Obras
+1009;GONZALEZ, Gabriela Adriana;Gerencia de Operaciones;Inspector de Obras
+1010;TABORDA, Alvaro;Directorio;Asistente
+1011;HENN, Pamela Gisele;Unidad de Auditoría Interna;Analista Administrativo Contable
+1013;PEÑALVER DELGADO, Kisbel Coromoto;Gerencia de Operaciones;Operador NOC
+1014;GIUDICE, Mauro Alberto;Gerencia de Operaciones;Agente de CAC
+1015;ECHEVARRIA, Mayra Daniela;Gerencia de Operaciones;Agente de CAC
+1016;PADULA, Giuliana;Gerencia de Administración y Finanzas;Analista de Compras
+1019;ESQUIVEL, Lucas;Gerencia de Administración y Finanzas;Analista de Compras
+1020;CORONEL, Andrea Cecilia;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+1021;NUÑEZ, Sofía Beatriz;Gerencia de Operaciones;Agente de CAC
+1022;ESCRIBANO, Carla Alicia;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+1023;ZAMUDIO CONDORI, Juan José;Gerencia de Operaciones;Analista de Red
+1027;SCHMEISSER, Luciano Ariel;Gerencia de Operaciones;Agente de CAC
+1028;INOFRE, Tania Cristina;Gerencia de Operaciones;Agente de CAC
+1029;VIZCARRA, Micaela Antonella;Gerencia de Operaciones;Agente de CAC
+1030;DOMINGO, Lucila;Gerencia de Operaciones;Operador NOC
+1031;ROMERO SOUZA, Daniel Alejandro;Gerencia de Operaciones;Operador NOC
+1032;INSAURRALDE, Melina Rocio;Gerencia de Administración y Finanzas;Analista de Cuentas a Pagar
+1033;GARCIA, José Ariel;Gerencia de Operaciones;Agente de CAC
+1034;FERNANDEZ, Juan Marcelo;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+1035;LANDAETA SILVERA, Luis Alejandro;Gerencia de Servicios Espaciales;Ingeniero Especialista en Despliegue de TDT Nivel 4
+1036;ROMANELLI, Julieta Belen;Gerencia General;Auxiliar Administrativo
+1037;MOLL, Marcos Enrique;Gerencia de Operaciones;GO Ceres
+1038;DI NARDO, Federico;Gerencia de Servicios Espaciales;Ingeniero de Operaciones
+1039;VARELA, Gonzalo Alfredo;Gerencia de Servicios Espaciales;Controlador Satelital
+1040;GALLARDO, Jorge Omar;Gerencia de Operaciones;GO Mar del Plata
+1041;CRISUL RODA, Ernesto Nicolás;Gerencia de Operaciones;GO Catamarca
+1044;ROVELLA, Andres Pablo;Gerencia de Tecnología Informática;Especialista TI
+1046;MORSA, Marcelo Javier;Gerencia de Tecnología Informática;Especialista TI
+1047;TORREZ CARVAJALINO, Jose Agustin;Gerencia de Tecnología Informática;PM
+1049;RIVERO, Matias Axel;Gerencia de Tecnología Informática;Operador Electromecánico
+1050;CARRILLO, Daniel Bernardo;Gerencia de Tecnología Informática;Desarrollador
+1056;HESS, Diana Debora;Secretaría General;Auxiliar Administrativo
+1057;OJCIUS, Jorge Ricardo;Gerencia de Tecnología Informática;Administrador de Storage
+1058;FERRAZZO, Federico;Gerencia de Tecnología Informática;PM
+1059;PAGANI, Pablo Gastón;Subgerencia de Servicios Corporativos y Logística;Subgerente de Servicios Corporativos y Logística
+1060;CACERES BAGNASCO, Rodrigo Fabian;Presidencia;Chofer
+1061;LEMA, Máximo Domingo;Gerencia General;Asesor
+1062;BELLO, Claudia Elena;Gerencia General;Asesor
+1063;VON KESSELSTATT, Maximiliano Martin;Gerencia de Asuntos Jurídicos;Gerente de Asuntos Jurídicos
+1064;OLIVER, Matias Leonardo;Subgerencia de Servicios Corporativos y Logística;Asesor
+1065;BOSCHIN, Gerardo;Gerencia de Administración y Finanzas;Subgerente de Compras
+1066;COMPERATORE, Leonardo Fabián;Gerencia General;Asesor
+1067;NAVARRO, Juan Andrés;Gerencia de Administración y Finanzas;Subgerente de Administración
+1068;FALASCO, Octavio;Gerencia General;Asesor
+1069;DELORENZI, Gimena;Gerencia General;Asesora
+1070;VIDAL DUBRA, Laura Gabriela;Secretaría General;Auxiliar Administrativo
+1071;SIERRA, Sebastian;Gerencia de Operaciones;Coordinador Sur Oeste
+1072;ESCALANTE, Claudia Roxana;Gerencia General;Auxiliar Técnico
+1073;MARTINEZ, Daiana Yamila Lujan;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1076;PONCE, Carlos Antonio;Gerencia de Operaciones;GO Belén
+1077;FANEGO, Ariel Federico;Gerencia de Operaciones;GO Santa Rosa
+1078;RODRIGUEZ WANDERLEY, María Cecilia;Unidad de Auditoría Interna;Analista de Auditoria
+1079;BARABAS, Franco;Gerencia de Operaciones;GO Mercedes
+1080;BARTOL, Maria Paula;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1082;ZAMBRANO, Wilson Daniel;Gerencia de Operaciones;GO Orán
+1083;LETURIA, Carlos Eduardo;Gerencia de Operaciones;GO Tucumán
+1084;DEMARCO, Gerardo Felipe;Gerencia Comercial;Subgerente Comercial de Entes Públicos
+1086;DI MAURO APARICIO, Juan Pablo;Gerencia de Tecnología Informática;Sistemas
+1088;PINASCO, Maria Julieta;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1089;DEL CAMPO, Camila Mailen;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+1090;VIDAL, Jose Alejandro;Gerencia de Operaciones;GO Trenque Lauquen
+1091;BARRIONUEVO, Gonzalo Sebastian;Gerencia de Operaciones;GO Belén
+1092;HERNANDEZ, Esteban Daniel;Gerencia de Operaciones;GO Comodoro Rivadavia
+1093;CRECHE, Gabriel Adolfo;Gerencia de Operaciones;GO Salta
+1094;OLMEDO, Lucas Andrés;Gerencia de Operaciones;GO Posadas
+1095;TORRES, Sergio Daniel;Gerencia de Operaciones;GO Córdoba
+1096;BARABINO, Rafael;Compliance;Analista de Compliance
+1097;ZUFRATELLI GAMIZO, Nicolas;Gerencia de Operaciones;GO Santa Rosa
+1098;VILLASBOAS BRESANOVICH, Enzo Martín;Gerencia de Operaciones;GO Formosa
+1099;ERNALS, Matías Misael;Gerencia de Operaciones;GO San Clemente
+1100;BRINGAS, Jorge David;Gerencia de Operaciones;GO Benavidez
+1101;MIGUEL, Matías David;Gerencia de Operaciones;GO Rosario
+1102;LUNA, Darío Alberto;Gerencia de Operaciones;GO Tucumán
+1104;GALCERAN, Antonio José;Gerencia de Operaciones;GO Santiago del Estero
+1105;MARTI, Fernando Matías;Gerencia de Operaciones;GO Mercedes
+1106;GARCIA BALBI, María Emilia;Gerencia de Operaciones;Auxiliar Administrativo
+1107;CANET, Ramiro Luis;Gerencia de Asuntos Jurídicos;Asesor
+1110;PIRRO, Luciano Andres;Gerencia de Tecnología Informática;Desarrollador
+1111;ARENAS, Cristian Isaac;Gerencia de Tecnología Informática;Desarrollador
+1112;FERNANDEZ, Luis Edgardo;Gerencia de Operaciones;GO Río Gallegos
+1113;LOPEZ, Juan José;Gerencia de Operaciones;GO Perito Moreno - Santa Cruz
+1114;VERA, Joaquin Enrique;Gerencia de Operaciones;GO Perito Moreno - Santa Cruz
+1115;OJEDA, Cristian Maximiliano;Gerencia de Operaciones;GO San Luis
+1116;PEREZ, Brian Leonel;Gerencia de Operaciones;GO San Clemente
+1117;BARRIOS, Marcelo David;Gerencia de Operaciones;GO Córdoba
+1118;MUÑOZ, Fernando Javier;Gerencia de Operaciones;GO Las Lomitas
+1119;LIENLAF PEREZ, Sergio Andrés;Gerencia de Operaciones;GO Esquel
+1120;BORGHI, Juan Leonel;Gerencia de Operaciones;GO Goya
+1121;SOLANO, Federico Nicolás;Gerencia de Operaciones;GO Jujuy
+1122;SANGARA, Germán Ignacio;Gerencia de Operaciones;GO Benavidez
+1123;QUINTEROS, Raúl Emmanuel;Gerencia de Operaciones;GO Mar del Plata
+1124;MARTINEZ, Matías Sebastián;Gerencia de Operaciones;GO Posadas
+1125;FLORES, Pablo Ezequiel;Gerencia de Operaciones;GO Orán
+1126;ARRIETA, Flavia Gimena;Subgerencia de RRHH y RSE;Médico de Planta
+1127;ARAMAYO CHAPOR, Dardo Javier;Gerencia de Operaciones;GO Humahuaca
+1128;FRIEDSAM, Matias David Antonio;Gerencia de Operaciones;GO Benavidez
+1129;LOTO, Fernando Nicolás;Gerencia de Operaciones;GO Añatuya
+1130;FERNANDEZ, Juan Marcelo;Gerencia de Operaciones;GO Reconquista
+1131;D AMICO, Fernando Gabriel;Gerencia de Tecnología Informática;Analista Técnico Funcional
+1132;GAGNETEN, Ailén;Gerencia de Tecnología Informática;Desarrollador
+1133;LOPEZ GOMEZ, Gino Gabriel;Gerencia de Operaciones;GO San Francisco
+1134;REYNOSO, Néstor Francisco Valentín;Gerencia de Operaciones;GO Gualeguaychú
+1135;SCHMAL AGOSTINELLI, Alberto Enrique;Gerencia de Operaciones;GO Villa Maria
+1136;CASARO, Julián Andrés;Gerencia de Tecnología Informática;Analista Funcional
+1137;MAYNARD, Axel Braian;Gerencia de Operaciones;GO Gualeguaychú
+1138;CARBAJAL, Gonzalo;Gerencia de Servicios Espaciales;Asesor TDA
+1139;FERREIRO, Matías Alejo;Gerencia de Tecnología Informática;Desarrollador
+1140;PRADO, Santiago Andrés;Gerencia de Tecnología Informática;Operador CERT Ciberseguridad
+1141;RAGONE, Jorge Rafael;Gerencia de Operaciones;GO Concordia
+1142;ANDRADA DE PALOMERA, Maria del Mar Aluen;Gerencia Comercial;Administrativa
+1144;BURKERT, Luis Oscar;Gerencia de Tecnología Informática;Operador Electromecánico
+1145;AYALA AYALA, Elizabeth;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1148;DIAZ CASTILLO, Pamela Lucía;Gerencia de Operaciones;Operador NOC
+1149;BERZANO, Julian Ezequiel;Gerencia de Operaciones;Operador NOC
+1150;ALBELO, Adriel Jair;Gerencia de Operaciones;GO Río Cuarto
+1151;PALERMO, Ariel;Gerencia de Tecnología Informática;Analista Tecnico de Networking
+1152;BENITEZ, Aldo Ruben;Gerencia de Operaciones;GO El Dorado
+1154;AQUINO, Martin Ezequiel;Gerencia de Servicios Espaciales;Operador NOC
+1155;SORRENTINO, Camilo Ernesto;Subgerencia de Servicios Corporativos y Logística;Administrativo de Depósito
+1156;SCHECHTEL, Federico Nicolas;Gerencia de Tecnología Informática;Jefe de Ingenieria de Seguridad Informatica
+1157;RIERA, Maria Cintia;Gerencia de Administración y Finanzas;Analista Contable
+1158;CUFRE, Juan Manuel;Gerencia de Tecnología Informática;Operador Electromecánico
+1159;TARAS, Damian Enrique;Gerencia de Tecnología Informática;Ingeniero Cloud Sr.
+1160;WROCLAWSKI, Nicolas Julien Bernard Paul;Gerencia de Servicios Espaciales;Ingeniero Satelital
+1161;MARTINEZ, Rodrigo;Gerencia Comercial;Jefe de Marketing y Soporte Comercial
+1162;BAEZ, Luis Ernesto;Subgerencia de Servicios Corporativos y Logística;Operario de Mantenimiento
+1163;ANDINO, Jonatan Ariel;Gerencia de Tecnología Informática;Analista de networking
+1164;CONELLY, Leonardo Andres;Gerencia de Operaciones;Agente de CAC
+1165;SUAREZ, Anabella Luciana;Gerencia de Tecnología Informática;Analista de Gestión Operativa
+1166;LADA, Alejandro Raul;Gerencia de Administración y Finanzas;Analista de Presupuesto y control presupuestario
+1167;KELMAN, Mario Gabriel;Gerencia Comercial;Ejecutivo de Cuentas
+1168;LOPEZ, Facundo Nehuen;Gerencia de Servicios Espaciales;Controlador Satelital
+1169;GALLEGUILLO, Juan Pablo;Gerencia de Servicios Espaciales;Ingeniero de Operaciones
+1170;COCONIER, Agustin;Gerencia de Tecnología Informática;Operador NOC Nivel 2
+1171;QUIROS, Giannina;Gerencia de Servicios Espaciales;Operador NOC
+1172;TORRES ADHEMAR, Agustin;Gerencia de Tecnología Informática;Desarrollador
+1173;DIANO, Duilio Federico;Gerencia de Tecnología Informática;Coordinador de Networking
+1174;BOSCARDIN, Gustavo Daniel;Gerencia de Tecnología Informática;Analista de Administración
+1175;CAPALBO, Morena Ona;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1176;BOHL, Matias Agustin;Subgerencia de Servicios Corporativos y Logística;Gestion de Flota y Patrimonial
+1177;REVERDITO, Diego Alejandro;Gerencia de Servicios Espaciales;Técnico de Operaciones y Mantenimiento
+1179;PARRONDO, Carlos Victor;Gerencia de Operaciones;Especialista NOC Nivel 3
+1180;TOBIA, Miguel;Gerencia Comercial;Ejecutivo de Cuentas
+1181;IGLESIAS, Marcelo Ruben;Subgerencia de Servicios Corporativos y Logística;Auxiliar Administrativo
+1182;ROMANELLI, Florencia Luna;Gerencia General;Asistente
+1183;FELLENZ, Andres;Gerencia de Operaciones;Coordinador de GO Sur
+1184;GAROZZO, Marcelo Alfredo;Gerencia de Operaciones;Técnico de Aceptación
+1185;REYNOSO, Ariel Ernesto Bernabe;Gerencia de Operaciones;Técnico de Aceptación
+1186;CAVATAIO, Pablo Gabriel;Directorio;Asesor
+1187;HANNOIS, Laura Karina;Subgerencia de RRHH y RSE;Auxiliar Administrativo
+1188;GONZALEZ, Tadeo Julian;Gerencia de Tecnología Informática;Analista de Soporte
+1189;DE LA IGLESIA, Marilina;Gerencia de Tecnología Informática;Desarrollador
+1190;FELIX, Yair Nicolas;Gerencia de Tecnología Informática;Desarrollador
+1191;LINK, Jonathan Ivan;Gerencia de Tecnología Informática;Desarrollador
+1192;SICCARDI, Eliana Magalí;Gerencia de Servicios Espaciales;Operador NOC
+1193;IZAGUIRRE, Marina Sofia;Gerencia General;Asesor
+1195;MOLOCZNIK, Lucila Denise;Gerencia de Administración y Finanzas;Analista de Compras
+1196;ROGER DE ARZUAGA, Matias;Unidad de Auditoría Interna;Analista Legal de Auditoria
+1197;CISNEROS, Anabel Del Carmen;Gerencia General;Asesora
+1198;HEREDIA, Milagros Selene;Gerencia de Servicios Espaciales;Ingeniero de Guiado, Navegación y Control
+1199;VALDEZ, Victor Javier;Gerencia General;Asesor
+1200;VIRGA, Pedro Javier;Gerencia de Operaciones;Especialista NOC Nivel 3
+1201;GURREA, Lucia;Gerencia Comercial;Asistente
+1202;MACHADO, Víctor Hugo;Gerencia de Operaciones;GO Goya
+1203;LANG, Jonatan;Gerencia de Operaciones;GO Viedma
+1204;FORTE, Martin Maximiliano;Gerencia de Operaciones;GO Azul-Olavarría
+1205;TORRES, Braian Nicolás;Gerencia de Operaciones;GO San Francisco
+1206;SAEZ FERREIRA, Juan Francisco;Gerencia de Operaciones;GO Mendoza
+1207;GOMEZ, Diego Nicolás;Gerencia de Operaciones;GO Sáenz Peña
+1209;KOKHANOVITCH, Juan Pablo;Gerencia de Servicios Espaciales;Ingeniero Satelital
+1210;CAMPORRO, Ignacio Manuel;Gerencia de Tecnología Informática;Desarrollador
+1211;PEROVICH VELOZO, Pedro Gonzalo;Gerencia de Tecnología Informática;Desarrollador
+1212;BARZOLA, Santiago Lucas;Gerencia de Tecnología Informática;Desarrollador
+1213;TORRES, Pablo Gustavo;Gerencia de Operaciones;GO Villa Maria
+1214;CRISPO, Nicolas;Gerencia de Operaciones;GO Rosario
+1215;TARAVELLO, Carlos Alejandro;Gerencia de Operaciones;GO Esquel
+1216;MORALES, Fabian Marcelo;Gerencia de Operaciones;GO San Luis
+1217;OBST DEMAESTRI, Miranda;Gerencia de Tecnología Informática;Desarrollador
+1218;GRICHINER, Viviana Monica;Gerencia de Tecnología Informática;Desarrollador
+1219;RICHINO, Leandro Hernan;Gerencia de Administración y Finanzas;Analista de Presupuesto y control presupuestario
+1220;AREGGER, Kevin;Gerencia de Operaciones;GO Jujuy
+1221;RUMI, Facundo Alejandro;Gerencia de Operaciones;Go Ushuaia
+1222;CONTRERAS, Ricardo Victor Ezequiel;Gerencia de Operaciones;GO Resistencia
+1224;TENOR, Santiago Juan;Gerencia Comercial;Analista de Marketing
+1226;BORT, Julio Cesar;Gerencia Comercial;Ejecutivo de Cuentas
+1228;CANAL, Carlos;Gerencia Comercial;Ejecutivo de Cuentas
+1229;BARRAZA, Martin Daniel;Gerencia de Operaciones;Go Ushuaia
+1230;HRUBISKO, Lucila;Gerencia de Servicios Espaciales;Analista de Planificación y Control
+1231;BOLINO, Patricio Emilio;Gerencia de Tecnología Informática;Operador CERT Ciberseguridad
+1232;DURAN, Paula Mariel;Gerencia de Tecnología Informática;Operador CERT Ciberseguridad
+1233;YAZIGI, Federico Javier;Presidencia;Asistente
+1234;HERRERA BRAVO, Rodrigo;Presidencia;Jefe de Gabinete de Asesores del Directorio
+1235;DI LORENZO, Roberto Francisco;Gerencia de Relaciones Institucionales;Gerente de Relaciones Institucionales
+1236;LOPEZ, Jorgelina;Gerencia de Relaciones Institucionales;Asesor
+1237;CLEMENTE ALTUVE, Mónica Alejandra;Secretaría General;Recepcionista
+1238;DUBOIS, Mariana Mabel;Secretaría General;Recepcionista
+1239;ALVAREZ, Gustavo Cesar;Gerencia de Asuntos Jurídicos;Asesor
+1240;GARCIA, Ludmina Judith;Gerencia Comercial;Ejecutivo de Cuentas
+1241;GOMEZ TORREALBA, Richard Anderson;Gerencia de Servicios Espaciales;Operador NOC
+1242;VILLALOBO, Juan David;Gerencia de Servicios Espaciales;Operador NOC
+1244;GRECO, Mariano;Gerencia General;Asesor
+1245;GOMEZ, Juan Emmanuel;Gerencia de Servicios Espaciales;Operador NOC
+1246;RIOS RUIZ, Sara;Gerencia de Tecnología Informática;Desarrollador
+1247;ANDRADA, Tomas Agustin;Gerencia de Tecnología Informática;Desarrollador
+1248;BOIANELLI TOMASETTI, Braian Mariano;Gerencia de Tecnología Informática;Desarrollador
+1249;SALINI, Camila Mora;Gerencia de Tecnología Informática;Desarrollador
+1250;SCHEINKESTEL, Javier;Gerencia de Tecnología Informática;Desarrollador
+1251;RUPO, Walter Alejandro;Gerencia de Servicios Espaciales;Jefe de Mantenimiento de Servicios Satelitales y TDA
+1252;PAZ, Evelyn Lourdes;Unidad de Auditoría Interna;Analista de Auditoria
+1253;CASTRO, Felix Daniel;Presidencia;Asesor
+1254;GESTORE, Andrea Fabiana;Presidencia;Asesora
+1255;GALLI, Hugo Eugenio;Gerencia de Operaciones;GO Neuquén
+1256;LA GIOIOSA, Soledad;Gerencia General;Asesora
+1257;OLMOS, Martin;Gerencia General;Asesor
+1258;FERNANDEZ SUAREZ, Pablo;Gerencia General;Asesor
+1259;ALASSIA, Ignacio Carlos;Gerencia de Tecnología Informática;Jefe de SOC
+1260;GUTIERREZ, Oscar Mauricio;Gerencia de Tecnología Informática;Administrador Ciberseguridad
+1261;HIDALGO, Rodrigo Nicolas;Gerencia de Tecnología Informática;Especialista SOC
+1262;BRUNELLO ACOSTA, Ana Rocio;Gerencia de Tecnología Informática;Especialista SOC
+1263;POUYTE, Christian Enrique;Gerencia de Operaciones;Coordinador NOC
+1254;GESTORE, Andrea Fabiana;Presidencia;Asesora
+1256;LA GIOIOSA, Soledad;Gerencia General;Asesora
+1257;OLMOS, Martin;Gerencia General;Asesor
